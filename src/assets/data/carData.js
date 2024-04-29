@@ -11,36 +11,36 @@ import img08 from "../all-images/cars-img/mercedes-offer.png";
 const carData = [
   {
     id: 1,
-    brand: "Tesla",
-    rating: 112,
-    carName: "Tesla Malibu",
+    brand: "",
+    rating: 7,
+    carName: "Equipment 'Light'",
     imgUrl: img01,
-    model: "Model 3",
-    price: 50,
-    speed: "20kmpl",
-    gps: "GPS Navigation",
-    seatType: "Heated seats",
-    automatic: "Automatic",
+    model: "Model-2024",
+    price: 3990,
+    speed: "90kmpl",
+    gps: "free ski pass",
+    seatType: "Gloves made of PU (polyurethane).",
+    automatic: "Manual adjustment",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      "Weekend equipment for those who want to ride lightly.",
   },
 
 
 
   {
     id: 6,
-    brand: "Mercedes",
-    rating: 119,
-    carName: "Mercedes Benz XC90",
+    brand: "",
+    rating: 10,
+    carName: "Full equipment",
     imgUrl: img06,
-    model: "Model-2022",
-    price: 85,
-    speed: "20kmpl",
-    gps: "GPS Navigation",
-    seatType: "Heated seats",
-    automatic: "Automatic",
+    model: "Model-2024",
+    price: 6990,
+    speed: "110kmpl",
+    gps: "free ski pass",
+    seatType: "Teflon (ePTFE) gloves",
+    automatic: "Automatic adjustment",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      " Full equipment for those who want to fully immerse themselves in extreme skiing.",
   },
 
   // {
