@@ -3,42 +3,35 @@ const serviceData = [
     id: 1,
     title: "City Transfer",
     icon: "ri-map-pin-2-line",
-    desc: "Tempor tempor sadipscing vero lorem sea, invidunt sed et eos ipsum et erat. Dolor ut duo sadipscing lorem. Gubergren gub",
+    desc: "We can offer you a comfortable city transfer",
   },
 
   {
     id: 2,
-    title: "Whole  City Tour",
-    icon: "ri-community-line",
-    desc: "Tempor tempor sadipscing vero lorem sea, invidunt sed et eos ipsum et erat. Dolor ut duo sadipscing lorem. Gubergren gub",
+    title: "Ski equipment rental with unlimited hours",
+    icon: "ri-roadster-line",
+    desc: "Using this service you can pick up your ski equipment for an unlimited time if you are traveling with an overnight stay for several days.",
   },
 
   {
     id: 3,
-    title: "Unlimited Miles Car Rental",
-    icon: "ri-roadster-line",
-    desc: "Tempor tempor sadipscing vero lorem sea, invidunt sed et eos ipsum et erat. Dolor ut duo sadipscing lorem. Gubergren gub",
+    title: "Fast & Easy Booking",
+    icon: "ri-timer-flash-line",
+    desc: "In our application you can quickly and easily book all the necessary equipment",
   },
 
   {
     id: 4,
-    title: "Fast & Easy Booking",
-    icon: "ri-timer-flash-line",
-    desc: "Tempor tempor sadipscing vero lorem sea, invidunt sed et eos ipsum et erat. Dolor ut duo sadipscing lorem. Gubergren gub",
+    title: "Many Pickup Locations",
+    icon: "ri-map-pin-line",
+    desc: "We have many points of distribution for ski equipment",
   },
 
   {
     id: 5,
-    title: "Many Pickup Locations",
-    icon: "ri-map-pin-line",
-    desc: "Tempor tempor sadipscing vero lorem sea, invidunt sed et eos ipsum et erat. Dolor ut duo sadipscing lorem. Gubergren gub",
-  },
-
-  {
-    id: 6,
     title: "Airport Transfer",
     icon: "ri-flight-takeoff-line",
-    desc: "Tempor tempor sadipscing vero lorem sea, invidunt sed et eos ipsum et erat. Dolor ut duo sadipscing lorem. Gubergren gub",
+    desc: "We can provide comfortable transfer from and to the airport",
   },
 ];
 

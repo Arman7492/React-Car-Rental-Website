@@ -1,9 +1,9 @@
 import React from "react";
-import "../../styles/find-car-form.css";
-import "../../styles/find-car-form.css";
+import "../../styles/find-equipment-form.css";
+import "../../styles/find-equipment-form.css";
 import { Form, FormGroup } from "reactstrap";
 
-const FindCarForm = () => {
+const FindEquipmentForm = () => {
   return (
     <Form className="form">
       <div className=" d-flex align-items-center justify-content-between flex-wrap">
@@ -35,11 +35,11 @@ const FindCarForm = () => {
         </FormGroup>
 
         <FormGroup className="form__group">
-          <button className="btn find__car-btn">Find Instructor</button>
+          <button className="btn find__equipment-btn">Find Instructor</button>
         </FormGroup>
       </div>
     </Form>
   );
 };
 
-export default FindCarForm;
+export default FindEquipmentForm;

@@ -4,9 +4,9 @@ import CommonSection from "../components/UI/CommonSection";
 import Helmet from "../components/Helmet/Helmet";
 import AboutSection from "../components/UI/AboutSection";
 import { Container, Row, Col } from "reactstrap";
-import BecomeDriverSection from "../components/UI/BecomeDriverSection";
+import BecomeInstructorSection from "../components/UI/BecomeInstructorSection";
 
-import driveImg from "../assets/all-images/drive.jpg";
+import instructorImg from "../assets/all-images/instructor.png";
 import OurMembers from "../components/UI/OurMembers";
 import "../styles/about.css";
 
@@ -21,7 +21,7 @@ const About = () => {
           <Row>
             <Col lg="6" md="6" sm="12">
               <div className="about__page-img">
-                <img src={driveImg} alt="" className="w-100 rounded-3" />
+                <img src={instructorImg} alt="" className="w-100 rounded-3" />
               </div>
             </Col>
 
@@ -56,7 +56,7 @@ const About = () => {
         </Container>
       </section>
 
-      <BecomeDriverSection />
+      <BecomeInstructorSection />
 
       <section>
         <Container>
